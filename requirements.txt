@@ -1,7 +1,11 @@
-Flask==1.1.1
-imutils==0.5.3
+flask=1.1.2=pyhd3eb1b0_0
+imutils=0.5.4=pypi_0
 Keras==2.4.0
-opencv-python==4.4.0.46
-Pillow==8.0.1
+numpy=1.20.3=py39h4b4dc7a_0
+opencv-python=4.5.5.62=pypi_0
+opencv-python-headless=4.5.5.62=pypi_0
+pillow=8.4.0=py39h98e4679_0
+pip=21.2.4=py39hecd8cb5_0
+python=3.9.7=h88f2d9e_1
+scikit-image=0.18.3=py39hae1ba45_0
 tensorflow==2.3.1
-scikit-image==0.17.2
