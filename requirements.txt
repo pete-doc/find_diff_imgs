@@ -5,3 +5,4 @@ numpy
 opencv-python==4.5.5.62
 pillow==8.4.0
 scikit-image==0.18.3
+gunicorn
